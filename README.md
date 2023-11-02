@@ -1,4 +1,5 @@
 Minesweeper - Java Swing
+
 Author: Panagiotis Georgiadis
 
 Minesweeper is a classic single-player puzzle video game where the objective is to clear a rectangular board that contains hidden mines without detonating any of them. The game is won when all safe squares are uncovered, and it is lost if a mine is clicked. This Java Swing-based Minesweeper game provides a graphical user interface for an immersive gaming experience.
