@@ -1,4 +1,4 @@
-Minesweeper - Java Swing
+![image](https://github.com/PanagiotisGew/Minesweeper/assets/147500010/4828d446-f3eb-4840-a4c9-fa7b5932ae7a)Minesweeper - Java Swing
 
 Author: Panagiotis Georgiadis
 
@@ -48,12 +48,7 @@ Dependencies:
 
 This game does not rely on any external libraries or packages. It is written in Java and utilizes Java Swing for the graphical interface.
 
-License:
+![image](https://github.com/PanagiotisGew/Minesweeper/assets/147500010/6ea5d39d-dfbc-48d7-b2fe-cb4285a82f0a)
 
-This project is licensed under the MIT License. For more details, see the LICENSE file.
-
-Acknowledgments:
-
-Special thanks to the Minesweeper community for their inspiration and the countless hours of enjoyment this game has provided.
 
  
