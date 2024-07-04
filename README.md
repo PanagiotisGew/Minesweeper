@@ -1,4 +1,4 @@
-![image](https://github.com/PanagiotisGew/Minesweeper/assets/147500010/4828d446-f3eb-4840-a4c9-fa7b5932ae7a)Minesweeper - Java Swing
+Minesweeper - Java Swing
 
 Author: Panagiotis Georgiadis
 
